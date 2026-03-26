@@ -154,7 +154,7 @@ const lines = [
 "> attempting reconstruction...",
 "",
 "fav_actress: s̶̢̱̥̗̱̟͇̈́̆͜ǫ̴̘̙͔̟̜̈́̀̔̉͗͗̽̿f̷̲̩̏̉̾̓͝ḣ̷̺̖̳͓̜̈̀́́́̾̊̉͝s̶̢̱̥̗̱̟͇̈́̆͜ǫ̴̘̙͔̟̜̈́̀̔̉͗͗̽̿f̷̲̩̏̉̾̓͝ḣ̷̺̖̳͓̜̈̀́́́̾̊̉͝g̸̨̣̲̘̳̹̣̼͑͆̓̑̊h̷͖̖͑́͗̔̅͛i̸̻̦̼̔̚͝ͅa̸̯̟̤̽̒͑͊̊͑̃͗̎̇g̸̨̣̲̘̳̹̣̼͑͆̓̑̊h̷͖̖͑́͗̔̅͛i̸̻̦̼̔̚͝ͅa̸̯̟̤̽̒͑͊̊͑̃͗̎̇s̶̢̱̥̗̱̟͇̈́̆͜ǫ̴̘̙͔̟̜̈́̀̔̉͗͗̽̿f̷̲̩̏̉̾̓͝ḣ̷̺̖̳͓̜̈̀́́́̾̊̉͝g̸̨̣̲̘̳̹̣̼͑͆̓̑̊h̷͖̖͑́͗̔̅͛i̸̻̦̼̔̚͝ͅa̸̯̟̤̽̒͑͊̊͑̃͗̎̇ ",
-"fav_artist: wonyoung",
+"fav_artist: h̷͖̖͑́͗̔̅͛i̸̻̦̼̔̚͝ͅa̸̯̟̤̽̒͑͊̊͑̃͗̎̇s̶̢̱̥̗̱̟͇̈́̆͜ǫ̴̘̙͔̟̜̈́̀̔̉͗͗̽̿f̷̲̩̏̉̾̓͝ḣ̷̺̖̳͓̜̈̀́́́̾̊̉͝g̸̨̣̲̘̳̹̣̼͑͆̓̑̊h̷͖̖͑́͗̔̅͛i̸̻̦̼̔̚͝ͅa̸̯̟̤̽̒͑͊̊͑̃͗̎̇h̷͖̖͑́͗̔̅͛i̸̻̦̼̔̚͝ͅa̸̯̟̤̽̒͑͊̊͑̃͗̎̇s̶̢̱̥̗̱̟͇̈́̆͜ǫ̴̘̙͔̟̜̈́̀̔̉͗͗̽̿f̷̲̩̏̉̾̓͝ḣ̷̺̖̳͓̜̈̀́́́̾̊̉͝g̸̨̣̲̘̳̹̣̼͑͆̓̑̊h̷͖̖͑́͗̔̅͛i̸̻̦̼̔̚͝ͅa̸̯̟̤̽̒͑͊̊͑̃͗̎̇h̷͖̖͑́͗̔̅͛i̸̻̦̼̔̚͝ͅa̸̯̟̤̽̒͑͊̊͑̃͗̎̇s̶̢̱̥̗̱̟͇̈́̆͜ǫ̴̘̙͔̟̜̈́̀̔̉͗͗̽̿f̷̲̩̏̉̾̓͝ḣ̷̺̖̳͓̜̈̀́́́̾̊̉͝g̸̨̣̲̘̳̹̣̼͑͆̓̑̊h̷͖̖͑́͗̔̅͛i̸̻̦̼̔̚͝ͅa̸̯̟̤̽̒͑͊̊͑̃͗̎̇h̷͖̖͑́͗̔̅͛i̸̻̦̼̔̚͝ͅa̸̯̟̤̽̒͑͊̊͑̃͗̎̇s̶̢̱̥̗̱̟͇̈́̆͜ǫ̴̘̙͔̟̜̈́̀̔̉͗͗̽̿f̷̲̩̏̉̾̓͝ḣ̷̺̖̳͓̜̈̀́́́̾̊̉͝g̸̨̣̲̘̳̹̣̼͑͆̓̑̊h̷͖̖͑́͗̔̅͛i̸̻̦̼̔̚͝ͅa̸̯̟̤̽̒͑͊̊͑̃͗̎̇h̷͖̖͑́͗̔̅͛i̸̻̦̼̔̚͝ͅa̸̯̟̤̽̒͑͊̊͑̃͗̎̇s̶̢̱̥̗̱̟͇̈́̆͜ǫ̴̘̙͔̟̜̈́̀̔̉͗͗̽̿f̷̲̩̏̉̾̓͝ḣ̷̺̖̳͓̜̈̀́́́̾̊̉͝g̸̨̣̲̘̳̹̣̼͑͆̓̑̊h̷͖̖͑́͗̔̅͛i̸̻̦̼̔̚͝ͅa̸̯̟̤̽̒͑͊̊͑̃͗̎̇",
 "fav_idol: ayunda risu, kobo kanaeru, elizabeth rose bloodflame, gigi murin, nerissa ravencroft, usada pekora, suisei hochimachi, houshou marine",
 "fav_anime: blood-c, another, the promise neverland, boku dake ga inai machi, mirai nikki, shiki, attack on titan,  coppelion, corpse party, higurashi no naku koro ni, shigatsu wa kimi no uso, himouto! umaru-chan, nagi no asukara, parasyte, tokyo ghoul, kakegurui, yarichin bi- ERROR DETECTED",
 "",
