@@ -9,7 +9,8 @@ background:black;
 color:#00ff88;
 font-family:"Courier New", monospace;
 padding:40px;
-overflow:hidden;
+overflow-y:auto;
+scroll-behavior:smooth;
 }
 
 #terminal{
@@ -41,7 +42,7 @@ animation:glitch 0.15s infinite;
 }
 
 #return{
-margin-top:30px;
+margin-top:50px;
 opacity:0;
 transition:opacity 2s;
 }
@@ -58,7 +59,7 @@ transition:opacity 2s;
 </pre>
 
 <button onclick="check('uglyfoid')">uglyfoid</button>
-<button onclick="check('ş̷̧̠̼̩͍͚̰̭̬͗̊͊̿͋̌̌̒͝o̴̢̞͍͎̣̻̞͓̓̈͒̏̕k̸̨͖̠̮̳̭̞̅̈́̋̑̂͆̈̚̕͜f̸̣̠͂́i̸̼̱̰͓̻͙̰̻̜̇̐̽͋̈́̈́̚̚ạ̵͈͍͐̔')">ş̷̧̠̼̩͍͚̰̭̬͗̊͊̿͋̌̌̒͝o̴̢̞͍͎̣̻̞͓̓̈͒̏̕k̸̨͖̠̮̳̭̞̅̈́̋̑̂͆̈̚̕͜f̸̣̠͂́i̸̼̱̰͓̻͙̰̻̜̇̐̽͋̈́̈́̚̚ạ̵͈͍͐̔</button>
+<button onclick="check('s̶̢̱̥̗̱̟͇̈́̆͜ǫ̴̘̙͔̟̜̈́̀̔̉͗͗̽̿f̷̲̩̏̉̾̓͝ḣ̷̺̖̳͓̜̈̀́́́̾̊̉͝g̸̨̣̲̘̳̹̣̼͑͆̓̑̊h̷͖̖͑́͗̔̅͛i̸̻̦̼̔̚͝ͅa̸̯̟̤̽̒͑͊̊͑̃͗̎̇')">s̶̢̱̥̗̱̟͇̈́̆͜ǫ̴̘̙͔̟̜̈́̀̔̉͗͗̽̿f̷̲̩̏̉̾̓͝ḣ̷̺̖̳͓̜̈̀́́́̾̊̉͝g̸̨̣̲̘̳̹̣̼͑͆̓̑̊h̷͖̖͑́͗̔̅͛i̸̻̦̼̔̚͝ͅa̸̯̟̤̽̒͑͊̊͑̃͗̎̇</button>
 <button onclick="check('unknown')">unknown</button>
 <button onclick="check('you')">you</button>
 
@@ -69,7 +70,7 @@ transition:opacity 2s;
 <pre id="terminal"></pre>
 
 <div id="return">
-<a href="https://uglyfemcelx.github.io/node_1/" style="color:#00ff88;">
+<a href="https://uglyfemcelx.github.io/TheWired/" style="color:#00ff88;">
 > return to previous layer
 </a>
 </div>
@@ -95,7 +96,6 @@ msg.innerText = "> incorrect\n> identity mismatch"
 }
 }
 
-// main content
 const lines = [
 
 "[ node_02 :: unstable ]",
@@ -111,7 +111,7 @@ const lines = [
 "—",
 "",
 "name: uglyfoid",
-"name: sofia",
+"name: s̶̢̱̥̗̱̟͇̈́̆͜ǫ̴̘̙͔̟̜̈́̀̔̉͗͗̽̿f̷̲̩̏̉̾̓͝ḣ̷̺̖̳͓̜̈̀́́́̾̊̉͝g̸̨̣̲̘̳̹̣̼͑͆̓̑̊h̷͖̖͑́͗̔̅͛i̸̻̦̼̔̚͝ͅa̸̯̟̤̽̒͑͊̊͑̃͗̎̇",
 "name: ????",
 "name: you",
 "",
@@ -131,6 +131,45 @@ const lines = [
 "> why did you come here",
 "> this node is unstable",
 "> return is recommended",
+"",
+"—",
+"",
+"> anomaly detected",
+"> foreign data fragment found",
+"",
+"hobby_01: listening to any music",
+"hobby_02: watching coryxkenshin, forever neena, miawaug, kubz scouts, h20 delirious, carto0nz, etc",
+"hobby_03: wandering the wired",
+"",
+"> these feel real",
+"> more real than the rest",
+"",
+"—",
+"",
+"fav_actress: unknown",
+"fav_artist: fragmented",
+"fav_idol: multiple",
+"fav_anime: ???",
+"",
+"> attempting reconstruction...",
+"",
+"fav_actress: s̶̢̱̥̗̱̟͇̈́̆͜ǫ̴̘̙͔̟̜̈́̀̔̉͗͗̽̿f̷̲̩̏̉̾̓͝ḣ̷̺̖̳͓̜̈̀́́́̾̊̉͝s̶̢̱̥̗̱̟͇̈́̆͜ǫ̴̘̙͔̟̜̈́̀̔̉͗͗̽̿f̷̲̩̏̉̾̓͝ḣ̷̺̖̳͓̜̈̀́́́̾̊̉͝g̸̨̣̲̘̳̹̣̼͑͆̓̑̊h̷͖̖͑́͗̔̅͛i̸̻̦̼̔̚͝ͅa̸̯̟̤̽̒͑͊̊͑̃͗̎̇g̸̨̣̲̘̳̹̣̼͑͆̓̑̊h̷͖̖͑́͗̔̅͛i̸̻̦̼̔̚͝ͅa̸̯̟̤̽̒͑͊̊͑̃͗̎̇s̶̢̱̥̗̱̟͇̈́̆͜ǫ̴̘̙͔̟̜̈́̀̔̉͗͗̽̿f̷̲̩̏̉̾̓͝ḣ̷̺̖̳͓̜̈̀́́́̾̊̉͝g̸̨̣̲̘̳̹̣̼͑͆̓̑̊h̷͖̖͑́͗̔̅͛i̸̻̦̼̔̚͝ͅa̸̯̟̤̽̒͑͊̊͑̃͗̎̇ ",
+"fav_artist: ???",
+"fav_idol: ayunda risu, kobo kanaeru, elizabeth rose bloodflame, gigi murin, nerissa ravencroft, usada pekora, suisei hochimachi, houshou marine",
+"fav_anime: blood-c, another, the promise neverland, boku dake ga inai machi, mirai nikki, shiki, attack on titan,  coppelion, corpse party, higurashi no naku koro ni, shigatsu wa kimi no uso, himouto! umaru-chan, nagi no asukara, parasyte, tokyo ghoul, kakegurui, yarichin bi- ERROR DETECTED",
+"",
+"> data unstable",
+"> preferences do not remain consistent",
+"",
+"> are these really yours",
+"> or were they assigned to you",
+"",
+"—",
+"",
+"> if you want to see more",
+"> access external node below",
+"",
+"> https://open.spotify.com/user/z7h6vgos21nu9l09kxajufoip?si=n6HFm-c9QDOZYG1LhzdAIA",
 "",
 "—",
 "",
@@ -169,7 +208,6 @@ document.getElementById("return").style.opacity="1"
 },3000)
 }
 
-// random glitch replace
 function glitchText(){
 setInterval(()=>{
 if(term.innerHTML.length > 0){
@@ -179,7 +217,6 @@ setTimeout(()=>term.classList.remove("glitch"),200)
 },2000)
 }
 
-// returning visitor
 function visitorCheck(){
 if(localStorage.getItem("node2")){
 setTimeout(()=>{
