@@ -179,8 +179,8 @@ const lines = [
 "",
 "—",
 "",
-"> are you reading this",
-"> or is this reading you"
+"> leave",
+"> leave now"
 ]
 
 let i = 0
